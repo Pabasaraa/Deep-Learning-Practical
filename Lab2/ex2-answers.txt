@@ -1,0 +1,2 @@
+1. When number of nodes increases accuracy rised slightly.
+2. With lower number of nodes the accuracy is very low (around 60%) when increasing the number of nodes the accuracy increased to around 92% and then when we further increase the number of nodes the accuracy again began to lower to around 90%.
